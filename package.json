@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "LIRI bot made with node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Cruz morgan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
